@@ -45,6 +45,7 @@ a aplicação ira rodar na url:
 
 <h2>Testes </h2>
 Para rodar os testes, utilize o comando abaixo:
+```shell script
 mvn test
-
+```
  
