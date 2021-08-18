@@ -43,6 +43,14 @@ a aplicação ira rodar na url:
  http://localhost:8080/
 ```
 
+para visualizar banco de dados em memoria 
+ira rodar na url:
+
+```shell script
+ http://localhost:8080/banco
+```
+
+
 
 
 <h2>Testes </h2>
