@@ -12,6 +12,7 @@ Uma API REST para controle de fluxo de visitantes de um condominio
 -JPA </br>
 -h2 database </br>
 -junit </br>
+-Lombock </br>
 
 Para executar o projeto, será necessário instalar os seguintes programas:
 
