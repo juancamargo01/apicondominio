@@ -4,13 +4,14 @@
 Uma API REST para controle de fluxo de visitantes de um condominio
 
 <h2>Tecnologias:</h2>
-As tecnologias usada no porjeto sao :
-Sprintg-boot
-Spring-mvc
-Spring-data
-JPA
-h2 database
-junit
+
+-As tecnologias usada no porjeto sao :
+-Sprintg-boot
+-Spring-mvc
+-Spring-data
+-JPA
+-h2 database
+-junit
 
 Para executar o projeto, será necessário instalar os seguintes programas:
 
